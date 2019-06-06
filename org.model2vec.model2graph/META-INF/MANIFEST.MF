@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java2uml Test
+Bundle-SymbolicName: a2l.tests.java2uml
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.emf.compare,
+ org.eclipse.uml2.uml,
+ org.junit,
+ org.eclipse.m2m.atl.dsls;bundle-version="3.6.0"
